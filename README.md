@@ -1,4 +1,4 @@
 # ds_string-manipulations
 
 
-sample programs for string manipulations and datastructures-Stack,queue linked list
+sample programs for string manipulations and Data Structure-Stack,queue linked list
